@@ -1,0 +1,132 @@
+.content{
+    background-color:#f0f2f5;
+    padding-top: 72px;
+    padding-bottom: 200px;
+}
+.left-content h4{
+    font-weight: normal;
+    font-size: 28px;
+    max-width: 500px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.left-content img{
+    max-height: 106px;
+    margin-left: -30px;
+    margin-bottom: -10px;
+    border: 0;
+}
+.left-content{
+    padding-top: 100px;
+}
+.container{
+    max-width: 980px;
+}
+.right-content{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    margin-top: 60px;
+    width: 396px;
+    padding: 20px 20px;
+}
+.right-content input{
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+.right-content input::placeholder{
+    font-size: 17px;
+}
+.right-content form{
+    width: 100%;
+}
+.btn-login{
+    font-size: 20px;
+    font-weight: 500;
+}
+.forget-password{
+    margin-top: 15px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.forget-password a{
+    text-decoration: none;
+    font-size: 15px;
+}
+.forget-password a:hover{
+    text-decoration: underline;
+}
+.btn-register{
+    background-color: #42b72a;
+    border: 0;
+    padding: 10px 15px;
+    font-weight: 500;
+    font-size: 17px;
+}
+.information a{
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+}
+.information p{
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+.information{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 15px;
+}
+.first-tab, .second-tab{
+    padding-left: 0;
+    
+}
+.first-tab{
+    margin-bottom: -5px;
+}
+.first-tab li a, .second-tab li a{
+    text-decoration: none;
+    font-size: 13px;
+    color: #8a8d91;
+}
+.first-tab li, .second-tab li{
+    list-style-type: none;
+    margin-right: 10px;
+    font-size: 13px;
+    color: #8a8d91;
+}
+.second-tab li{
+    line-height: 20px;
+    margin-right: 15px;
+    font-size: 12.5px;
+}
+.second-tab{
+    margin-top: -10px;
+}
+.first-tab li a:hover, .second-tab li a:hover{
+    text-decoration: underline;
+}
+.footer{
+    margin-top: 15px;
+    width: 100%;
+    
+}
+.button-icon{
+    border: 1px solid #ccc;
+    padding: 0px 7px;
+    border-radius: 3px;
+}
+.button-icon{
+    color: #666262 !important;
+    background-color: #f5f6f7;
+    transition: .1s;
+}
+.button-icon:hover{
+    background-color: #e1e3e3;
+}
+.col-md-12 hr{
+    background-color: #f0ecec;
+}
